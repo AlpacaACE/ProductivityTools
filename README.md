@@ -2,3 +2,4 @@
 - [Blot.new](https://bolt.new/)
 - [cursor](https://www.cursor.com/)
 - [Windsurf](https://codeium.com/windsurf)
+- [cline](https://github.com/cline/cline)
