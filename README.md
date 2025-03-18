@@ -4,3 +4,4 @@
 - [Windsurf](https://codeium.com/windsurf)
 - [cline](https://github.com/cline/cline)
 - [Trae](https://www.trae.ai/)
+- [MGX](https://mgx.dev/)
