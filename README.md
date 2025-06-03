@@ -5,3 +5,5 @@
 - [cline](https://github.com/cline/cline)
 - [Trae](https://www.trae.ai/)
 - [MGX](https://mgx.dev/)
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code)
+- [Kilo Code](https://github.com/Kilo-Org/kilocode)
