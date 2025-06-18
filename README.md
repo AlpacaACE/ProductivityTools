@@ -8,3 +8,4 @@
 - [Roo Code](https://github.com/RooCodeInc/Roo-Code)
 - [Kilo Code](https://github.com/Kilo-Org/kilocode)
 - [AugmentCode](https://www.augmentcode.com/)
+- [Claude Code](https://github.com/anthropics/claude-code)
